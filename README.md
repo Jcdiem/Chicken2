@@ -3,8 +3,11 @@ Chicken 2 is a game I made for AP CSP a long time back (I think I'm outside of t
   
 The game is in a very sorry state right now and functions, but only barely. The only thing you're missing from Chicken 1 is that there is no Chicken. For those that want to play: The goal of the game is to get to Lythia, which is a discoverable locaiton.
 # How to use #  
-Working on that part.  
-  
+THIS IS A (hopefully) TEMPORARY SOLUTION  
+Install NodeJS for your operating system (Windows link)Windows, (Linux link)Linux or (Mac link)Mac.  
+Once you have that just use runGame.bat  
+Once you're done you can close the cmd window, otherwise keep it open.  
+
 When logging into the game, just make a quick sample account with 123 123 or something. If you want to cheat at the game use the login debug debug. Somewhere there's a database file with more dev accounts, if you're into that.
 
 # Plans #  
