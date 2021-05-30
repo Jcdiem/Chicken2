@@ -5,6 +5,6 @@ The game is in a very sorry state right now. Despite that, it does function, if 
 
 For those that want to play: The goal of the game is to get to Lythia, which is a discoverable locaiton.
 # How to use #  
-Go to the project website.  
+Go to the project website at https://jcdiem.github.io/Chicken2/.  
 
 When logging into the game, just make a quick sample account with 123 123 or something. If you want to cheat at the game use the login debug debug. Somewhere there's a database file with more dev accounts, if you're into that.
