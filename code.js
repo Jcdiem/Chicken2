@@ -35,6 +35,8 @@
 //End music: (Waterflame, Wingless) http://www.waterflamemusic.com/
 //End resource crediting
 
+//The plan is to replace all of these with actual art done by some friends who wanted practice.
+
 //Play some menu music
 playSound("assets/FilthyFrank.mp3", false);
 
